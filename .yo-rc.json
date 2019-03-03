@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GPTM",
+    "packageName": "io.github.jhipster.gptm",
+    "packageFolder": "io/github/jhipster/gptm",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "MzMwOTUzYTlkMjMwMWM0ZTMwOGQ2MzA5ZjNiZjY1ZmU2MzBkMDRlZmU5NTQ2OWJmZDIzODJiYjA5OGIxNzY2ZjhlNmJlZDhkZGEzMWY3OWRjMzNkMjM1NzE0YzJmMjFmZTNhMmUyOTFhYjk5ZWQ4NDg5OTVmMDEwZWNiZWVkZGQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Kyndall22",
+  "repository-name": "jhipster-GPTM"
+}
